@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/alura/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/encapsulado/Cliente.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/encapsulado/Conta.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/encapsulado/TesteContas.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/Administrador.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/AutenticacaoUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/Autenticavel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/Cliente.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/ControleBonificacao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/Designer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/EditorVideo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/Funcionario.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/Gerente.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/SistemaInterno.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/TesteFuncionario.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/TesteGerente.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/TesteReferencias.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdado/TesteSistema.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdadoConta/CalculadorDeImposto.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdadoConta/Cliente.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdadoConta/Conta.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdadoConta/ContaCorrente.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdadoConta/ContaPoupanca.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdadoConta/SaldoInsuficienteException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdadoConta/SeguroDeVida.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdadoConta/TesteContas.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdadoConta/TesteSaca.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdadoConta/TesteTributaveis.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/bytebank/herdadoConta/Tributavel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/java/pilha/Conexao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/java/pilha/Conta.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/java/pilha/Fluxo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/java/pilha/FluxoComError.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/java/pilha/FluxoComTratamento.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/java/pilha/MinhaExcecao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/java/pilha/TestaContaComExcecaoChecked.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/alura/java/pilha/TesteConexao.java" charset="UTF-8" />
+  </component>
+</project>
