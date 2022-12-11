@@ -1,4 +1,4 @@
-package br.com.alura.tdd;
+package br.com.alura.tdd.service;
 
 public class Calculadora {
 

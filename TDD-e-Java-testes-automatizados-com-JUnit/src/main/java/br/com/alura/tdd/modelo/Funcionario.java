@@ -1,6 +1,9 @@
 package br.com.alura.tdd.modelo;
 
+import br.com.alura.tdd.modelo.enums.DesempenhoEnum;
+
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.time.LocalDate;
 
 public class Funcionario {
@@ -15,6 +18,10 @@ public class Funcionario {
         this.salario = salario;
     }
 
+    public BigDecimal atualizarSalario(BigDecimal novoValor){
+        return this.salario = novoValor;
+    }
+
     public String getNome() {
         return nome;
     }
@@ -24,7 +31,7 @@ public class Funcionario {
     }
 
     public BigDecimal getSalario() {
-        return salario;
+        return salario.setScale(2, RoundingMode.HALF_UP);
     }
 
 }

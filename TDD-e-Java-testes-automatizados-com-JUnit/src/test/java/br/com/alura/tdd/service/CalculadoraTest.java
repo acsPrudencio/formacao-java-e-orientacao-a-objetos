@@ -1,7 +1,6 @@
-package br.com.alura.tdd;
+package br.com.alura.tdd.service;
 
 
-import br.com.alura.tdd.service.Calculadora;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
